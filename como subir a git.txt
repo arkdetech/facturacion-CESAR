@@ -10,3 +10,17 @@ FUENTE: https://medium.com/@sthefany/primeros-pasos-con-github-7d5e0769158c
 
 Para clonar
 git clone https://github.com/arkdetech/facturacion-CESAR.git
+
+
+FUENTE: https://medium.com/@sthefany/primeros-pasos-con-github-7d5e0769158c
+
+1. Ubicarse en la carpeta
+2. git add *
+3. git status
+4. git commit -m "facturacion"
+	loguearse
+5. git remote add origin https://github.com/arkdetech/facturacion-CESAR.git
+6. git push -u origin master
+
+Para clonar
+git clone https://github.com/arkdetech/facturacion-CESAR.git
